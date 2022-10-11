@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "Entity\Entity.csproj", "{287E8C94-3B4D-4977-A994-16066132B525}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{9905A31C-AF65-4587-87EF-7A503E134FB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{58D461D8-4A2E-4230-9239-10BF98047D77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{287E8C94-3B4D-4977-A994-16066132B525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{287E8C94-3B4D-4977-A994-16066132B525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{287E8C94-3B4D-4977-A994-16066132B525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{287E8C94-3B4D-4977-A994-16066132B525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9905A31C-AF65-4587-87EF-7A503E134FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9905A31C-AF65-4587-87EF-7A503E134FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9905A31C-AF65-4587-87EF-7A503E134FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9905A31C-AF65-4587-87EF-7A503E134FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58D461D8-4A2E-4230-9239-10BF98047D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58D461D8-4A2E-4230-9239-10BF98047D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58D461D8-4A2E-4230-9239-10BF98047D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58D461D8-4A2E-4230-9239-10BF98047D77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A45A1C2-B6FB-484B-8EB1-8FCA9258AAD1}
+	EndGlobalSection
+EndGlobal
